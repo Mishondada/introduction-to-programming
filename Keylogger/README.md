@@ -49,7 +49,7 @@ A comprehensive Windows system monitoring tool with a modern GUI interface for t
 
 Clone the repository:
 ```bash
-git clone https://github.com/Mishondada/introduction-to-programming-
+git clone https://github.com/Mishondada/introduction-to-programming.git
 cd Keylogger
 ```
 
